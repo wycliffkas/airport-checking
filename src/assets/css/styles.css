@@ -1,0 +1,23 @@
+.row {
+  height: 100vh;
+}
+
+h4 {
+  font-weight: 400;
+}
+
+.btn-primary {
+  background-color: #434cb2;
+  border-color: #434cb2;
+  color: yellow;
+  width: 100%;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+  background-color: #2a35ad;
+  border-color: #2a35ad;
+  color: yellow;
+  width: 100%;
+}
